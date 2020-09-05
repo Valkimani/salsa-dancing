@@ -12,4 +12,4 @@ Bonus...
 - Add a button and a favicon.
 - Style the page in css.
 
--Make sure you the code looks the same in git hub and the copy on your browser.
+*Make sure you the code looks the same in git hub and the copy on your browser.
