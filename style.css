@@ -9,7 +9,12 @@ body {
   text-align: center;
   margin: auto 0;
 }
+/* Removed text decorationon h4. */
+/* Added text decoration styling to h4 section. */
+section {
+  text-decoration-line: underline;
+}
+
 h4 {
   font-size: large;
-  text-decoration-line: underline;
 }
